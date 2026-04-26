@@ -70,6 +70,7 @@ Quectel RM520N-EU is 5G IoT module specially optimized for IoT/eMBB applications
 
 | Date | Version | Hint | Link |
 | --- | --- | --- | --- |
+| `2026-02-03` | *RM520NEUDAR03A09M4G_A0.300.A0.300* | `Firmware cannot be downgraded to ver. released before RM520NEUDAR03A02M4G_01.200.01.200` | <a href="https://drive.google.com/file/d/1-OCvTS_o-BgrktklKDeF1s8XbyqHRmX5/view?usp=sharing">Download</a> |
 | `2024-04-12` | *RM520NEUDAR03A06M4G_01.200.01.200* | `Firmware cannot be downgraded to ver. released before RM520NEUDAR03A02M4G_01.200.01.200` | <a href="https://drive.google.com/file/d/1o-Cp82WJ1QN0VXDQZbE7npij4pWsQVM3/view?usp=sharing">Download</a> |
 
 </details>
